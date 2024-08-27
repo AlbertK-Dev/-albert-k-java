@@ -17,7 +17,8 @@ yarn add @albert-k/java
 pnpm install @albert-k/java
 ```
 ## version 
-- 0.1.0 (actuel): début de l'implementation de l'interface collection
+- 0.1.0 : début de l'implementation de l'interface collection
+- 0.1.1 : exportation des interfaces Collection, et Iterator pour typescript
 
 ## Utilisation
 

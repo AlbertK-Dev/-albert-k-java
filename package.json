@@ -1,6 +1,6 @@
 {
   "name": "@albert-k/java",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Un packet npm qui implémente les interfaces de java",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
