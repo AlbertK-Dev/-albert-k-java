@@ -21,12 +21,21 @@
     "build:esm": "tsc -p tsconfig.esm.json",
     "build": "npm run build:cjs && npm run build:esm"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertK-Dev/albert-k-java.git"
+  },
   "keywords": [
     "java",
     "albert"
   ],
+
   "author": "Albert-K",
   "license": "MIT",
+   "homepage": "https://github.com/AlbertK-Dev/albert-k-java#readme",
+   "bugs": {
+    "url": "https://github.com/AlbertK-Dev/albert-k-java/issues"
+  },
   "dependencies": {
     "jest": "^29.7.0"
   }
